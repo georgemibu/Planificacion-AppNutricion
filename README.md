@@ -12,3 +12,5 @@ https://www.notion.so/App-de-nutricion-295fb6b8a92080aca622fa50da822ae5?source=c
 https://www.notion.so/44884f8a6384480b9270f8238214583e?v=6bc9c04832b74b57acb350bf87757e3c&source=copy_link
 3- Hitos de sprints
 https://www.notion.so/257199b923954022bb2b204203f90dcd?v=2fd3d77787a341689f5affc439cb1220&source=copy_link
+
+4- Presento diversos archivos en pdf mostrando mis capacidades a la hora de explicar, guionar y desarrollar temas a la hora de ser enseñados. Dichos archivos se encuentran adjuntos en el repositorio
